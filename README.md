@@ -36,6 +36,7 @@ console.log("world")
 - [x] task1
 - [ ] task2
 
+## Tables
 
 |Light color|Next|Current|
 |:------|:------|:------|
