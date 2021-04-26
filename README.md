@@ -36,3 +36,8 @@ console.log("world")
 - [x] task1
 - [ ] task2
 
+
+|Light color|Next|Current|
+|:------|:------|:------|
+|Light color|Next|Current|
+|Light color|Next|Current|
