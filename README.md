@@ -17,5 +17,6 @@ This is sub directory
 
 ```js
 console.log("hello")
-console.log("world") ```
+console.log("world") 
+```
 
