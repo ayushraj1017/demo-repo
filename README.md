@@ -39,6 +39,6 @@ console.log("world")
 ## Tables
 
 |Light color|Next|Current|
-|:------|:------|:------|
+|:------:|:------:|:------:|
 |Light color|Next|Current|
 |Light color|Next|Current|
