@@ -33,6 +33,6 @@ console.log("world")
 - [demo](#user-content-demo)
 
 
-- [x ] task1
+- [x] task1
 - [ ] task2
 
