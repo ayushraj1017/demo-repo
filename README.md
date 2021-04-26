@@ -44,6 +44,6 @@ console.log("world")
 |Light color|Next|Current|
 
 
- This is foot notes =[1^]
+ This is foot notes[1^]
  
  [1^]:this is link
